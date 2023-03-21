@@ -27,5 +27,4 @@ The only "feature" is the nav bar that goes to different places on the webpage w
 
 ## Screenshot & Live Link
 Link: https://anicrob.github.io/week-1-challenge/
-Screenshot:
-[Screenshot](./Develop/assets/images/Screen%20Shot%202023-03-21%20at%204.40.30%20PM.png)
+[Click here to view a Screenshot](./Develop/assets/images/Screen%20Shot%202023-03-21%20at%204.40.30%20PM.png)
