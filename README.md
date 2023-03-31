@@ -25,7 +25,8 @@ This GitHub repo is using the MIT license.
 
 The only "feature" is the nav bar that goes to different places on the webpage when clicked on. 
 
-## Link to deployed application
-Link: https://anicrob.github.io/week-1-challenge/
+## Link to repo & deployed application
+Link to repo: https://anicrob.github.io/week-1-challenge/
+Link to deployed application: https://anicrob.github.io/week-1-challenge/ 
 ## Screenshot
 ![Screenshot](./Develop/assets/images/Screen%20Shot%202023-03-21%20at%204.40.30%20PM.png)
